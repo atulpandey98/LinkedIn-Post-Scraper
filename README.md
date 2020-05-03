@@ -28,4 +28,11 @@ How to run this code
     Download the project and extract to local storage.
     Open script folder.
     Run linkedin.py in terminal.
+    
+    ![terminal](/Images/script.png)
+    
+    And done....
+    
+    ![done!!](/Images/done.png)
+    
    
