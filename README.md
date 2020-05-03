@@ -29,10 +29,9 @@ How to run this code
     Open script folder.
     Run linkedin.py in terminal.
     
-    ![terminal](/Images/script.png)
+![terminal](/Images/script.png)
     
     And done....
     
-    ![done!!](/Images/done.png)
-    
+![done!!](/Images/done.png)   
    
