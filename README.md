@@ -1,5 +1,7 @@
 # LinkedIn-Post-Scraper
 
+![Web scraper](/Images/web-scraping.jpg)
+
 What is this?:
 
     It's often seen that people want to share some content with the interested people on linkedin. But when
