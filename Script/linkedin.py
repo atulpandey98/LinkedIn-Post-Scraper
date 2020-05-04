@@ -6,7 +6,7 @@ import pandas as pd
 import tkinter as tk
 from tkinter import simpledialog
 
-# function that prompts the user for the url, username and password
+# function that prompts the user for the url, username and password of the user
 def userDetails():
 
     master = tk.Tk()
