@@ -8,7 +8,7 @@ from tkinter import simpledialog
 
 # function that prompts the user for the url, username and password of the user
 def userDetails():
-
+  
     master = tk.Tk()
     tk.Label(master,
              text="Url").grid(row=0,
