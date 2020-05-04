@@ -16,12 +16,14 @@ Requirements:
     python3
     selenium
     pandas
+    tkinter
 
 Installation:
 
     sudo apt-get python3-pip
     sudo pip3 install selenium
     sudo pip3 install pandas
+    sudo apt-get install python3-tk
 
 How to run this code
     
