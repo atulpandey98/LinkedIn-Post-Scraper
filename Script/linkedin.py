@@ -6,7 +6,7 @@ import pandas as pd
 
 
 # url of the post that you want to scrape
-url = "https://www.linkedin.com/posts/nikhilnaren_table-of-contents-activity-6662754592826232832-OFHm/"
+url = "url of the post that you want to scrape"
 
 # get an instance of browser
 browser = webdriver.Firefox()
