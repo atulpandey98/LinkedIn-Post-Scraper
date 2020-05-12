@@ -30,6 +30,13 @@ How to run this code
     Download the project and extract to local storage.
     Open script folder.
     Run linkedin.py in terminal.
+    A GUI will open up
+
+![gui](/Images/gui.png)
+    
+    Enter the link of post to scrape.
+    Enter your email id and password of linkedin to login
+    Click ok
     
 ![terminal](/Images/script.png)
     
